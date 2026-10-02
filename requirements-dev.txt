@@ -1,0 +1,6 @@
+-r requirements.txt
+# MMS voice test only
+transformers
+torch
+scipy
+numpy
